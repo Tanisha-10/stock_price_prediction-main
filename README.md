@@ -81,19 +81,17 @@ This project aims to predict the stock prices of a company using historical data
 └── models/
 ```
 
-
-✍️ Author
-
-Tanisha Jaiswal
-
-Feel free to contribute to the project or report issues. Happy coding!
+Feel free to contribute to the project or report issues. 
 
 ## 📜 License
 
 This project is currently not licensed. However, I intend to license it under the MIT License soon. Stay tuned for updates!
 
+✍️ Author
 
+Tanisha Jaiswal
 
+ Happy coding!
 
 
  
