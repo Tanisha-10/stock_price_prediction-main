@@ -92,9 +92,8 @@ This project is currently not licensed. However, I intend to license it under th
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## 🙌 Acknowledgments
 
-Thanks to the open-source community and developers of LSTM and data analysis libraries for their invaluable contributions to this project.
+
 
 
  
